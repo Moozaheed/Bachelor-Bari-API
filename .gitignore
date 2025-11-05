@@ -1,0 +1,19 @@
+# Laravel
+/vendor
+/node_modules
+/.env
+/.idea
+/.vscode
+/storage/*.key
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/views
+/storage/logs
+
+# Docker
+docker/php/vendor
+docker/nginx/*.pid
+
+# OS files
+.DS_Store
+Thumbs.db
